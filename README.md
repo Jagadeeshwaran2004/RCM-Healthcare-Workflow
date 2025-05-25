@@ -2,7 +2,9 @@
 
 The **Revenue Cycle Management (RCM) workflow in healthcare** is the end-to-end process that healthcare providers use to manage the financial aspect of patient care—from scheduling an appointment to receiving final payment.
 
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/5ecfe8c4-020c-4858-be8f-1c29b9536497)
+
 
 Here’s a step-by-step breakdown of the RCM workflow:
 **1.Patient Registration**
