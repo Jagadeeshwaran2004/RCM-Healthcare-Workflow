@@ -7,6 +7,7 @@ The **Revenue Cycle Management (RCM) workflow in healthcare** is the end-to-end 
 
 
 Here’s a step-by-step breakdown of the RCM workflow:
+
 **1.Patient Registration**
 Collect patient demographics and insurance information.
 Verify insurance eligibility and coverage.
